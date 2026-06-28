@@ -4,6 +4,12 @@ Todos los cambios notables en este proyecto serán documentados en este archivo.
 
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [2.2.1] - 2026-06-28
+### Changed
+- build(deps): Actualización de Spring Boot de 4.0.6 a 4.1.0
+- build(deps): Actualización de Spring Cloud de 2025.1.0 a 2025.1.2
+
 ## [2.2.0] - 2026-05-27
 ### Changed
 - build(deps): Actualización de Spring Boot de 3.5.6 a 4.0.6
@@ -133,6 +139,7 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.h
 - Configuración básica de Maven
 - Estructura inicial del proyecto
 
+[2.2.1]: https://github.com/ETEREA-services/ETEREA.gateway-service/compare/v2.2.0...v2.2.1
 [2.2.0]: https://github.com/ETEREA-services/ETEREA.gateway-service/compare/v2.1.0...v2.2.0
 [2.1.0]: https://github.com/ETEREA-services/ETEREA.gateway-service/compare/v2.0.1...v2.1.0
 [2.0.1]: https://github.com/ETEREA-services/ETEREA.gateway-service/compare/v2.0.0...v2.0.1
